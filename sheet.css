@@ -64,9 +64,7 @@ font-weight: 600;
    padding:150px 30px 20px 30px;
    }
    #homeContent {
-    background-image:url('responsive.png');
-    width: 100%; height: 83vh;
-    
+    background-position: left;
 }
 }
 #sections , #items , #sectionbottom{
