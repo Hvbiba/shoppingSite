@@ -10,11 +10,11 @@
     width: 50px;
     padding: 10px;
     cursor: pointer;
-    margin-right: 400px;
+    margin-right: 410px;
 }
 #topbar #icons {
     display: flex;  
-    margin-left: 300px;
+    margin-left: 340px;
 }
 #topbar #icons i ,#topbar #icons a , #topbar #icons a:hover {
     font-size: 25px;
@@ -48,7 +48,7 @@ font-weight: 600;
 }
 @media (max-width: 576px){
     #topbar #logo {
-    margin-right: 170px;
+    margin-right: 190px;
 
  }
  #topbar #icons {
@@ -73,7 +73,7 @@ font-weight: 600;
     align-items: center;
 }
 #sections .card , #sectionbottom .card{ 
-margin: 20px 10px 20px 10px;
+margin: 20px 5px 20px 30px;
 }
 /* items in men a7 women sections*/
 #items {
@@ -159,12 +159,12 @@ form p {
 }
 @media (max-width: 576px){
     #login{
-        width: 90%; height: 400px;
-        margin: 10px 0px 10px 7px;
-       padding: 10px 0px 10px 10px;
+        width: 90%; height: 500px;
+        margin: 20px 0px 20px 17px;
+       padding: 10px 0px 20px 10px;
     }
     #sign{
-        width: 93%; height: 470px;
+        width: 93%; height: 500px;
         margin: 0px; margin-left: 5px;
       padding: 0px;
     }
@@ -176,7 +176,7 @@ form p {
         display: block;
         width: 260px;
         height: 40px;
-        margin: 10px 8px 10px 0px; 
+        margin: 20px 0px 20px 10px; 
         padding: 4px;
     }
     #sign form input {
@@ -230,10 +230,10 @@ form p {
 @media (max-width: 576px){
     #content #items {
         grid-template-columns: repeat(1, 2fr);
-       margin: 20px 0px 10px 0px;
+         margin: 20px 0px 10px 0px;
     }
     #content #items  .card{
-        margin: 7px 0px 5px 0px;
+        margin: 7px 15px 5px 0px;
     }
 
 }
