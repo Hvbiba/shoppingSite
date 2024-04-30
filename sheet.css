@@ -48,7 +48,7 @@ font-weight: 600;
 }
 @media (max-width: 576px){
     #topbar #logo {
-    margin-right: 190px;
+    margin-right: 215px;
 
  }
  #topbar #icons {
@@ -165,8 +165,7 @@ form p {
     }
     #sign{
         width: 93%; height: 500px;
-        margin: 0px; margin-left: 5px;
-      padding: 0px;
+        margin: 10px 0px 20px 10px; 
     }
     form{
         padding: 10px;
@@ -233,7 +232,7 @@ form p {
          margin: 20px 0px 10px 0px;
     }
     #content #items  .card{
-        margin: 7px 15px 5px 0px;
+        margin: 10px 0px 7px 20px;
     }
 
 }
